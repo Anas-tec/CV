@@ -82,3 +82,6 @@
     margin-top: 20px;
     color: #777;
   }
+  a{
+    text-decoration-line: none;
+  }
